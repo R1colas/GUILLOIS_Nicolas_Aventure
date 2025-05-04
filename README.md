@@ -4,6 +4,8 @@
    ZQSD : Bouger
    
    Clic gauche pour attaquer, casser les vases et les pièges à os.
+
+   TAB : Minimap qui marche pas.
    
    Pour gagner : collecter les 3 colliers.
    
